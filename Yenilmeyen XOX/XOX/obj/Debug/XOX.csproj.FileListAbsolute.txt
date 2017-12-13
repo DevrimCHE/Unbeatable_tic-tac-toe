@@ -1,0 +1,9 @@
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\bin\Debug\XOX.exe.config
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\bin\Debug\XOX.exe
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\bin\Debug\XOX.pdb
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.csprojResolveAssemblyReference.cache
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.Form1.resources
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.Cache
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.exe
+c:\users\devri\documents\visual studio 2017\Projects\XOX\XOX\obj\Debug\XOX.pdb
